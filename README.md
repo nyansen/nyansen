@@ -5,6 +5,6 @@
 ---
 
 - Ich lebe in der Hansestadt Stade, Deutschland
-- Ich Fotografiere gerne
+- Ich fotografiere gerne
 - <a href="https://nicojensen.de/kontakt/" rel="me">Hier</a> erfährst du, wie du mich erreichen kannst
 - Pronomen: he/him
